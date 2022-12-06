@@ -1,0 +1,10 @@
+requests
+csv
+textblob
+emoji
+vaderSentiment
+pandas
+sklearn
+searchtweets
+matplotlib
+psycopg2-binary
